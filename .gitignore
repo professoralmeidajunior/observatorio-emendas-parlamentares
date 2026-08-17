@@ -1,0 +1,6 @@
+.env
+*.backup
+*.zip
+__pycache__/
+dados/bruto/
+dados/tratado/
